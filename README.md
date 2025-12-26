@@ -1,0 +1,3 @@
+So there I was one day, wanting to download the songs I've been listening to lately- I had a nice little Youtube Music playlist and everything. Only to find out, that the program that I've been using until then, Mediahuman, when prompted with a Youtube Music playlist link, opens it in Youtube instead. And surprises of surprises, some songs just *aren't* present in the Youtube version of the playlist.
+
+So this is my solution to that, a series of three scripts: the first one automates copying all the links one by one, the second one downloads them, the third one renames them so the files retain their order from the playlist.
