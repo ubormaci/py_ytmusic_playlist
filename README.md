@@ -8,5 +8,5 @@ To be more precise:
 * rename.py renames the songs sequentially, with padded zeroes, based on their time created, ascending.
 
 To do:
-- [] Fix the issue where it occasionally gets confused about special (ex. Hungarian) characters
-- [] Get cover arts in 4:3 where available
+- [ ] Fix the issue where it occasionally gets confused about special (ex. Hungarian) characters
+- [ ] Get cover arts in 4:3 where available
